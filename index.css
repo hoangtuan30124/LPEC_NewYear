@@ -218,16 +218,6 @@ a {text-decoration: none;}
     color: #000;
 }
 
-.sec5 {
-    height: 75vh;
-    width: 100%;
-}
-
-.sec5 div {
-    height: 100%;
-    width: 100%;
-}
-
 .background {
     z-index: -1;
 }
